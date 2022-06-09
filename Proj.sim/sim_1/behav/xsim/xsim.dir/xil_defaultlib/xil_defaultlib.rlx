@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+D:/PSN/Proj/Proj.srcs/sim_1/new/PRG_tb.vhd,1652441535,vhdl,,,,prg_tb,,,,,,,,
+D:/PSN/Proj/Proj.srcs/sim_1/new/combin_tb.vhd,1653240262,vhdl,,,,combin_tb,,,,,,,,
+D:/PSN/Proj/Proj.srcs/sim_1/new/main_tb.vhd,1653659799,vhdl,,,,main_tb,,,,,,,,
+D:/PSN/Proj/Proj.srcs/sim_1/new/muta_dreapta_tb.vhd,1653239218,vhdl,,,,muta_dreapta_tb,,,,,,,,
+D:/PSN/Proj/Proj.srcs/sim_1/new/tb.vhd,1651846341,vhdl,,,,tb,,,,,,,,
+D:/PSN/Proj/Proj.srcs/sources_1/new/MPG.vhd,1650898186,vhdl,D:/PSN/Proj/Proj.srcs/sources_1/new/nexys4.vhd,,,mpg,,,,,,,,
+D:/PSN/Proj/Proj.srcs/sources_1/new/PRG.vhd,1653648576,vhdl,D:/PSN/Proj/Proj.srcs/sources_1/new/main.vhd,,,prg,,,,,,,,
+D:/PSN/Proj/Proj.srcs/sources_1/new/combin.vhd,1653652339,vhdl,D:/PSN/Proj/Proj.srcs/sim_1/new/combin_tb.vhd,,,combin,,,,,,,,
+D:/PSN/Proj/Proj.srcs/sources_1/new/main.vhd,1653925867,vhdl,D:/PSN/Proj/Proj.srcs/sim_1/new/main_tb.vhd,,,main,,,,,,,,
+D:/PSN/Proj/Proj.srcs/sources_1/new/muta_dreapta.vhd,1653237858,vhdl,D:/PSN/Proj/Proj.srcs/sim_1/new/muta_dreapta_tb.vhd,,,muta_dreapta,,,,,,,,
+D:/PSN/Proj/Proj.srcs/sources_1/new/nexys4.vhd,1651840553,vhdl,D:/PSN/Proj/Proj.srcs/sim_1/new/tb.vhd,,,nexys4,,,,,,,,
